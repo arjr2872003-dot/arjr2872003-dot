@@ -1,53 +1,38 @@
 
 
-# Hi, I'm Areen 👋
 
-🎓 Computer Science Graduate | Aspiring Data Scientist
+# Hi there, I'm Areen! 👋
 
-I'm interested in Data Science, Machine Learning, and data-driven solutions. I enjoy exploring datasets, learning machine learning algorithms, and building practical projects using Python.
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-## 🛠️ Technologies & Tools
-
-- **Programming:** Python
-- **Data Analysis:** Pandas, NumPy
-- **Machine Learning:** Scikit-learn
-- **Tools:** Jupyter Notebook, Git, VS Code
-
-## 📂 Featured Projects
-
-### ⚡ EV Energy Consumption Analysis
-
-Data analysis project focused on exploring and understanding electric vehicle energy consumption data.
-
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Data visualization
-
-### 📊 Data Analysis Projects
-
-Exploring datasets and practicing data preprocessing, analysis, and visualization using Python.
-
-## 🌱 Currently Learning
-
-- Machine Learning fundamentals
-- Model training and evaluation
-- Data preprocessing and feature engineering
-
-## 🤝 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/)
+### 🚀 Data Scientist & Machine Learning Developer
+Enthusiastic about data analysis, machine learning algorithms, and building clean data processing pipelines.
 
 ---
 
-*Learning, building, and growing in Data Science.*
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjr2872003-dot&show_icons=true&theme=tokyonight&hide_border=true" alt="Areen's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjr2872003-dot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/areen2003" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
